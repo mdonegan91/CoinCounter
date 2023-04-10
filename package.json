@@ -1,5 +1,5 @@
 {
-    "name": "template-repo",
+    "name": "count-counter",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
